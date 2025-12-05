@@ -1,4 +1,4 @@
 {
-    "version": "1.1",
-    "downloadUrl": "https://play.google.com/store/apps/details?id=com.yourapp"
+    "version": "2.0",
+    "downloadUrl": "https://faruk0ahmed.github.io/NexloCode-Store/?id=1764874062659"
 }
